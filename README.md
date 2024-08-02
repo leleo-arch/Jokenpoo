@@ -8,7 +8,7 @@ Jogo de Jokenpo: Permite aos usuários jogar Pedra, Papel e Tesoura contra o com
 Resultados Instantâneos: Mostra os resultados de cada rodada instantaneamente.
 Interface Intuitiva: Interface de usuário amigável e responsiva.
 Tecnologias Utilizadas
-Frontend: HTML, CSS, JavaScript, React
+Frontend: HTML, CSS, JavaScript
 Deploy: Netlify
 
 ### Site
